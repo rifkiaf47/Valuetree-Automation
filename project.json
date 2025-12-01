@@ -1,12 +1,11 @@
 {
   "name": "Valuetree Automation",
-  "projectId": "2207af28-b612-4242-b4fa-fca4930e6e7e",
   "description": "Valuetree Automation",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.3.1]",
     "UiPath.GSuite.Activities": "[3.5.10]",
-    "UiPath.System.Activities": "[25.4.4]"
+    "UiPath.System.Activities": "[23.10.6]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -42,7 +41,7 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "saveToCloud": false
+    "modernBehavior": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
